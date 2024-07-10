@@ -70,7 +70,7 @@ This project is licensed under the [MIT License](LICENSE).
 3. [Como Usar](#como-usar)
 4. [Exemplos](#exemplos)
 5. [Contribuindo](#contribuindo)
-6. [Licença](#licenca)
+6. [Licença](#licença)
 
 ### Visão Geral
 
